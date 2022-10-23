@@ -1,0 +1,24 @@
+* {
+    padding: 0 0 0 8px;
+    margin:  0;
+    box-sizing: border-box; 
+     
+
+}
+.req::after{
+    color: red;
+    content: "*";
+}
+header,h1,p {
+    text-align: center;
+    background: blue;    
+}
+form {
+    height: 50vh;
+    width: 50vh;
+}
+
+form, label {
+    text-align: center;
+}
+
